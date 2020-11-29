@@ -1,0 +1,16 @@
+{
+  "name": "ayushimittaltask",
+  "version": "1.0.0",
+  "description": "let user download a zip file , extract zip file , copy files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "extract-zip": "^2.0.1",
+    "request": "^2.88.2",
+    "superagent": "^6.1.0"
+  }
+}
